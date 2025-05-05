@@ -26,5 +26,5 @@ To run the app locally:
    pip install -r requirements.txt
    
 2. Run the app: streamlit run malaria_dashboard.py
-3. Streamlit Cloud: https://your-username.streamlit.app
+3. Streamlit Cloud: [https://your-username.streamlit.app](https://malaria-dashboard-roiisqbwilyehgkyy4rui5.streamlit.app/)
    
