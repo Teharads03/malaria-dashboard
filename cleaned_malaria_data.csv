@@ -1,0 +1,147 @@
+indicator_code,indicator_name,year,country,value
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2021,Sri Lanka,673744.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2022,Sri Lanka,0.0
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2016,Sri Lanka,1.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2022,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2021,Sri Lanka,0.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2017,Sri Lanka,0.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2017,Sri Lanka,1089290.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2017,Sri Lanka,57.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2004,Sri Lanka,0.02
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2023,Sri Lanka,0.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2015,Sri Lanka,36.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2019,Sri Lanka,0.0
+MALARIA_INDIG,Number of indigenous malaria cases,2017,Sri Lanka,0.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2018,Sri Lanka,1129070.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2023,Sri Lanka,63.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2021,Sri Lanka,26.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2019,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2003,Sri Lanka,2.29
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2000,Sri Lanka,47.33
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2023,Sri Lanka,63.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2022,Sri Lanka,808827.0
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2018,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2013,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2020,Sri Lanka,0.0
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2018,Sri Lanka,0.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2020,Sri Lanka,30.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2015,Sri Lanka,36.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2015,Sri Lanka,0.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2017,Sri Lanka,57.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2003,Sri Lanka,0.09
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2006,Sri Lanka,0.13
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2006,Sri Lanka,0.02
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2010,Sri Lanka,0.0
+MALARIA_INDIG,Number of indigenous malaria cases,2018,Sri Lanka,0.0
+MALARIA_INDIG,Number of indigenous malaria cases,2019,Sri Lanka,0.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2015,Sri Lanka,0.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2016,Sri Lanka,41.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2020,Sri Lanka,30.0
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2021,Sri Lanka,0.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2019,Sri Lanka,0.0
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2023,Sri Lanka,0.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2018,Sri Lanka,52.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2020,Sri Lanka,0.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2019,Sri Lanka,0.0
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2019,Sri Lanka,2.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2023,Sri Lanka,63.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2017,Sri Lanka,0.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2019,Sri Lanka,1164914.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2014,Sri Lanka,0.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2001,Sri Lanka,1.15
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2005,Sri Lanka,0.35
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2019,Sri Lanka,54.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2016,Sri Lanka,0.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2014,Sri Lanka,0.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2009,Sri Lanka,0.0
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2021,Sri Lanka,0.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2022,Sri Lanka,795287.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2021,Sri Lanka,0.0
+MALARIA_IMPORTED,Number of imported malaria cases,2021,Sri Lanka,25.0
+MALARIA_IMPORTED,Number of imported malaria cases,2020,Sri Lanka,30.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2015,Sri Lanka,35.0
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2015,Sri Lanka,1.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2015,Sri Lanka,1142466.0
+MALARIA_IMPORTED,Number of imported malaria cases,2015,Sri Lanka,36.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2016,Sri Lanka,1072396.0
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2020,Sri Lanka,0.0
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2022,Sri Lanka,0.0
+MALARIA_IMPORTED,Number of imported malaria cases,2023,Sri Lanka,62.0
+MALARIA_INDIG,Number of indigenous malaria cases,2015,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2011,Sri Lanka,0.03
+MALARIA_PRES_CASES,Number of presumed malaria cases,2018,Sri Lanka,0.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2008,Sri Lanka,0.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2005,Sri Lanka,0.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2021,Sri Lanka,680386.0
+MALARIA_IMPORTED,Number of imported malaria cases,2016,Sri Lanka,41.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2001,Sri Lanka,14.76
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2016,Sri Lanka,0.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2022,Sri Lanka,37.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2018,Sri Lanka,0.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2020,Sri Lanka,810205.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2000,Sri Lanka,1.74
+MALARIA_INDIG,Number of indigenous malaria cases,2020,Sri Lanka,0.0
+MALARIA_INDIG,Number of indigenous malaria cases,2016,Sri Lanka,0.0
+MALARIA_IMPORTED,Number of imported malaria cases,2018,Sri Lanka,48.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2023,Sri Lanka,0.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2020,Sri Lanka,0.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2016,Sri Lanka,0.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2022,Sri Lanka,37.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2021,Sri Lanka,0.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2021,Sri Lanka,26.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2007,Sri Lanka,0.02
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2013,Sri Lanka,0.0
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2020,Sri Lanka,0.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2020,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2007,Sri Lanka,0.04
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2011,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2017,Sri Lanka,0.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2020,Sri Lanka,820210.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2002,Sri Lanka,0.66
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2012,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2023,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2002,Sri Lanka,9.09
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2019,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2012,Sri Lanka,0.0
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),2022,Sri Lanka,0.0
+MALARIA_IMPORTED,Number of imported malaria cases,2017,Sri Lanka,57.0
+MALARIA_INDIG,Number of indigenous malaria cases,2022,Sri Lanka,0.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2015,Sri Lanka,1157366.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2016,Sri Lanka,1090743.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2018,Sri Lanka,1149897.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2022,Sri Lanka,0.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2023,Sri Lanka,0.0
+MALARIA_PRES_CASES,Number of presumed malaria cases,2017,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2009,Sri Lanka,0.11
+MALARIA_INDIG,Number of indigenous malaria cases,2021,Sri Lanka,0.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2017,Sri Lanka,1104333.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2019,Sri Lanka,1164914.0
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2015,Sri Lanka,0.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2017,Sri Lanka,57.0
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2023,Sri Lanka,835655.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2021,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2016,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2008,Sri Lanka,0.14
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2022,Sri Lanka,0.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2019,Sri Lanka,54.0
+MALARIA_IMPORTED,Number of imported malaria cases,2022,Sri Lanka,37.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2023,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2015,Sri Lanka,0.0
+MALARIA_INDIG,Number of indigenous malaria cases,2023,Sri Lanka,0.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2018,Sri Lanka,0.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2021,Sri Lanka,26.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2018,Sri Lanka,52.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2010,Sri Lanka,0.14
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2016,Sri Lanka,0.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2018,Sri Lanka,52.0
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2015,Sri Lanka,0.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2016,Sri Lanka,41.0
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2016,Sri Lanka,40.0
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2020,Sri Lanka,30.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2022,Sri Lanka,37.0
+MALARIA_IMPORTED,Number of imported malaria cases,2019,Sri Lanka,53.0
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2018,Sri Lanka,0.0
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2004,Sri Lanka,0.81
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2017,Sri Lanka,0.0
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2019,Sri Lanka,54.0
+MALARIA_SUSPECTS,Number of suspected malaria cases,2023,Sri Lanka,854175.0
